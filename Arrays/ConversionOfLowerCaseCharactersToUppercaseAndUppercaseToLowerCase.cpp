@@ -3,7 +3,6 @@ using namespace std;
 int main()
 {
 	char s1[200];
-	char s2[200];
 	int size = 0;
 	cout << "Enter 1st: ";
 	cin.getline(s1, 200);
@@ -11,10 +10,6 @@ int main()
 	{
 		size++;
 	}
-	/*cout << "Enter 2nd: ";
-	cin.getline(s2, 200);*/
-	
-
 	for (int i = 0; i < size; ++i)
 	{
 		if (s1[i] >= 'A' && s1[i] <= 'Z')
@@ -28,4 +23,5 @@ int main()
 	
 	cout << "Converted string : " << s1;
 	return 0;
+
 }
