@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	char ch1[100], ch2[100];
+	char ch1[100];
 	cout << "Enter the 1st array: ";
 	cin.getline(ch1, 100);
 	
@@ -24,4 +24,5 @@ int main()
 	}
 
 	return 0;
+
 }
