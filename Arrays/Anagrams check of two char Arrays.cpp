@@ -48,8 +48,8 @@ int main() {
     }
     else
     {
-        cout << "Not anagrams";  // Changed from "Not" to be more clear
+        cout << "Not anagrams";
     }
     
-    return 0;  // Added missing return
+    return 0;
 }
