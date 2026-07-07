@@ -10,8 +10,12 @@ This repository contains my C++ practice codes. I upload programs as I learn new
 
 - Functions
 - Arrays
+- 2D Arrays
 - File handling
 - Pointers
+- Double Pointers
+- Dynamic Memory Allocation
+- Jagged Arrays
 - Strings (C-style char arrays)
 - Loops and nested loops
 - If/else logic
