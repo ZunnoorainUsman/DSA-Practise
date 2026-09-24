@@ -1,0 +1,5 @@
+Student Id  Total  Average  Status
+    1         12       3      Fail
+    2         16       4      Pass
+    3         18       4.5      Pass
+    4         19       4.75      Pass

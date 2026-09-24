@@ -1,0 +1,9 @@
+0 Fizah 8
+1 zara 6
+2 Ali 6
+3 zunnoorain 9
+4 sarah 1
+5 Ali 6
+6 sarah 1
+
+0 Fizah 8
